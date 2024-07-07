@@ -28,4 +28,4 @@ Before you begin, ensure you have met the following requirements:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/varuuun1/weather_app.git
+git clone https://github.com/th3varun/weather_app.git
