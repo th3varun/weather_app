@@ -12,8 +12,8 @@ Welcome to the Flutter Weather App repository! This project is a simple yet visu
 
 ## Screenshots
 
-![Weather Screen](screenshots/weather_screen.png)
-![Loading Indicator](screenshots/loading_indicator.png)
+![Home Screen](screenshots/home_screen.png)
+![Weather Details Screen](screenshots/weather_details_screen.png)
 
 ## Getting Started
 
