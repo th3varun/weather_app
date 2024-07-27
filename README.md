@@ -12,8 +12,10 @@ Welcome to the Flutter Weather App repository! This project is a simple yet visu
 
 ## Screenshots
 
-![Home Screen](screenshots/home_screen.png)
-![Weather Details Screen](screenshots/weather_details_screen.png)
+<p align="center">
+  <img src="screenshots/home_screen.png" alt="Home Screen" width="300" style="margin-right: 20px;"/>
+  <img src="screenshots/weather_details_screen.png" alt="Weather Details Screen" width="300"/>
+</p>
 
 ## Getting Started
 
