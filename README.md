@@ -12,8 +12,10 @@ Welcome to the Flutter Weather App repository! This project is a simple yet visu
 
 ## Screenshots
 
-![Weather Screen](screenshots/weather_screen.png)
-![Loading Indicator](screenshots/loading_indicator.png)
+<p align="center">
+  <img src="screenshots/home_screen.png" alt="Home Screen" width="300" style="margin-right: 20px;"/>
+  <img src="screenshots/weather_details_screen.png" alt="Weather Details Screen" width="300"/>
+</p>
 
 ## Getting Started
 
@@ -28,4 +30,4 @@ Before you begin, ensure you have met the following requirements:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/varuuun1/weather_app.git
+git clone https://github.com/th3varun/weather_app.git
